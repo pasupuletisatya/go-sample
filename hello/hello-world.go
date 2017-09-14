@@ -7,5 +7,5 @@ func hello() int {
 	return 10
 }
 func main() {
-	fmt.Println("Hello GO World! Welcomes you Satya")
+	fmt.Println("GO World Welcomes you Satya")
 }
